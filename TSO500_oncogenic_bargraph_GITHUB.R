@@ -19,7 +19,7 @@ data_dir     <- "<OUTPUT_DIR>"
 results_file <- file.path(data_dir, "somatic_clinvar_results.csv")
 out_xlsx     <- file.path(data_dir, "clinvar_id_coverage_and_calls.xlsx")
 
-recurrent_samples <- c("PQ7", "PQ14", "PQ21", "PQ33", "PQ46", "PQ47")
+recurrent_samples <- c("<recurrent_samples>")
 
 ## ============================================================
 ## 1. Helpers
